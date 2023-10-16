@@ -1,7 +1,7 @@
 
 ```
 
-apollo
+project
 ├─ .gitignore
 ├─ comments
 │  ├─ comments.graphql
